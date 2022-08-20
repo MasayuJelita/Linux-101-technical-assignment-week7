@@ -1,8 +1,8 @@
 mkdir Masayu
-cd Masayu/
+cd Masayu
 mkdir sekolah
 mkdir kerja
-cd sekolah/
+cd sekolah
 touch ijazah.txt
 nano ijazah.txt
    Perkenalkan namaku Masayu Jelita
@@ -16,7 +16,7 @@ nano portofolio.txt
  - Samsung Indonesia 
 (ctrl X, Y, Enter)
 cd ..
-cd kerja/
+cd kerja
 touch cv.txt
 nano cv.txt
 Salam,
@@ -26,11 +26,11 @@ Perkenalkan namaku Anggitia Pratiwi, saya memiliki kegemaran
 -Membaca novel
 (ctrl X, Y, Enter)
 cd ..
-cd sekolah/
+cd sekolah
 mv portofolio.txt kerja
 ls
 ijazah.txt
 cd ..
-cd kerja/
+cd kerja
 ls
 portofolio.txt cv.txt
