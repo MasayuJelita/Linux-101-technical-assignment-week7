@@ -9,18 +9,19 @@ nano ijazah.txt
    Aku berasal dari Kota Ponorogo
    Salam Kenal :D
 (ctrl X, Y, Enter)
-touch portofolio.txt
+sentuh portofolio.txt
+kami
 nano portofolio.txt
- Saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah
- - Pamapersada 
+saya pernah bekerja di beberapa perusahaan yaitu
+- Pamapersada
+ 
  - Samsung Indonesia 
 (ctrl X, Y, Enter)
-cd ..
 cd kerja
 touch cv.txt
 nano cv.txt
-Salam,
-Perkenalkan namaku Anggitia Pratiwi, saya memiliki kegemaran
+salam,
+Perkenalkan namaku MasayJelita,aku memiliki beberapa kegemaran yaitu
 -Bernyanyi
 -Memasak
 -Membaca novel
